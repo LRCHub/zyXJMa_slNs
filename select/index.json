@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "YY",
+  "base_artist": "23.exe",
+  "createdAt": "2026-02-09T12:20:14.396143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YY (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/01_YY_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Xx/Yy",
+      "artist": "Troubled Coast",
+      "has_synced": true,
+      "path": "select/02_Xx_Yy_Troubled_Coast.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YY",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/03_YY_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YY",
+      "artist": "23.exe",
+      "has_synced": true,
+      "path": "select/04_YY_23.exe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "YY (feat. 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥 & Hatsune Miku)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/05_YY_(feat._小豆沢こはね,_白石杏,_東雲彰人,_青柳冬弥_&_Hatsune_Miku)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "YY",
+      "artist": "23.exe",
+      "has_synced": true,
+      "path": "select/06_YY_23.exe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "YY",
+      "artist": "23.exe feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/07_YY_23.exe_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "YY",
+      "artist": "23.exe feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/08_YY_23.exe_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "YY (feat. 小豆沢こはね",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/09_YY_(feat._小豆沢こはね_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "YY",
+      "artist": "ロイ-RöE-",
+      "has_synced": true,
+      "path": "select/10_YY_ロイ-RöE-.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "chez les yy",
+      "artist": "serge gainsbourg",
+      "has_synced": true,
+      "path": "select/11_chez_les_yy_serge_gainsbourg.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yy - Yin Yang",
+      "artist": "USS",
+      "has_synced": true,
+      "path": "select/12_Yy_-_Yin_Yang_USS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "YY",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク",
+      "has_synced": true,
+      "path": "select/13_YY_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "yy",
+      "artist": "23exe",
+      "has_synced": true,
+      "path": "select/14_yy_23exe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "失樂園 [Concert YY]",
+      "artist": "草蜢",
+      "has_synced": true,
+      "path": "select/15_失樂園_[Concert_YY]_草蜢.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "O Yar Gelir(yy)",
+      "artist": "Aynur Hashas",
+      "has_synced": true,
+      "path": "select/16_O_Yar_Gelir(yy)_Aynur_Hashas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YY",
+      "artist": "23.exe",
+      "has_synced": false,
+      "path": "select/pl_01_YY_23.exe.txt"
+    }
+  ]
+}
